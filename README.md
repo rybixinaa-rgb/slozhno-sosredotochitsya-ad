@@ -1,2 +1,2 @@
-https://github.com/rybixinaa-rgb/posmotri-v-okno-ad
+https://github.com/rybixinaa-rgb/slozhno-sosredotochitsya-ad
 
