@@ -344,3 +344,13 @@ grid-row: 1 / 4;
 grid-column: 2;
 }
 }
+@media (min-width: 768px) and (max-width: 1023px) {
+.content > .content__section:nth-child(2) {
+grid-template-columns: minmax(0, 1fr);
+}
+
+.content > .content__section:nth-child(2) > .content__section-title,
+.content > .content__section:nth-child(2) > .content__card {
+grid-column: 1;
+}
+}
