@@ -15,7 +15,7 @@ color: var(--text-color);
   display: none;
 }
 @media (prefers-color-scheme: light) {
-:root:not(.theme-dark)  {
+:root:not(.theme-dark) {
 --bg-color: #fff1f7;
 --bg-image: url('../images/cover-image-light.png');
 --accent-color: #ff8dcb;
@@ -34,7 +34,7 @@ display: none;
 color: var(--text-color);
 }
 @media (prefers-color-scheme: light) {
-:root:not(.theme-dark) .header__theme-menu-button{
+:root:not(.theme-dark) .header__theme-menu-button {
 color: var(--text-color);
 }
 }
